@@ -15,4 +15,11 @@ Here is the description of the files of the Application
 5. Src/Program.java - Main driver program that takes input of various parameters.
 6. config.properties- This file contains the URL of the zappos API used to retrieve a list of products using the Search API.
 
+--
+Please note
+===============
+1. that if you wan to test the application execute the ZapposInterview.jar file in ExecutableJarFile folder
+2. If you want to make changes in the search API url you just need to modify the url in config.properties file in the ExecutableZarFile folder.
+3. If you are making any changes in the source code then you may need to recompile or rebuild the application.
+
   
