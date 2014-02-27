@@ -8,7 +8,7 @@ This is a console application build in java
 Here is the algorithm for selecting the products given #number of products and total amount.
 
 pseudocode:
------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 selectedProducts[# of products] 
 oldDiff=infinity
 
