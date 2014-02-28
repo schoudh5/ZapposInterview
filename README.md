@@ -23,4 +23,12 @@ Please note
 2. If you want to make changes in the search API url you just need to modify the url in config.properties file in the ExecutableZarFile folder.
 3. If you are making any changes in the source code then you may need to recompile or rebuild the application.
 
+Instructions for executing the .jar File
+===============
+1. Make sure that you have JDK 1.7 or JVM 1.7 installed on you machine.
+2. Download the executable jar and the config.properties file from ExecutableJarFile folder. If required, change the search API in the config.properties file.
+3. Navigate using the command prompt of your system to the directory in which the jar file is located. Make sure that config.properties and jar for execution are residing in the same folder.
+4. Use the command "java -jar ZapposInterview.jar" to execute the jar file. It will ask for the total amount you like to spend and the number of products.
+
+
   
